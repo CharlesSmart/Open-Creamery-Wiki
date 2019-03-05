@@ -9,3 +9,5 @@ Cultured cheeses like those popularised my Miyoko Schinner in her book Artisan V
 Instant cheeses skip any culturing step, meaning that the acidity and tanginess of cheese must be replicated in another way. This is often done by adding lactic acid, a method popularised by Skye Michael Conroy. It can also be achieved with lemon juice, apple cider vinegar, and using other similar acids. Again cheese-like flavours can be added through the addition of additional flavourings.
 
 Cheese-like substitutes are cheeses that seek to replicate the function of cheese in a single dish. For example a nacho cheese sauce. These cheeses are usually the easiest for beginners, requiring no culturing time and minimal specialty ingredients like kappa carrageenan (a gelling agent).
+
+![Bitmap](/uploads/bitmap.png "Bitmap")
